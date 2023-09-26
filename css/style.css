@@ -339,7 +339,7 @@ section {
     transition: all 0.5s;
   }
   .menu__list.menu__list--active {
-    transform: translateY(0%);
+    transform: translateY(0);
   }
   .menu__list-link {
     display: block;
