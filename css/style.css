@@ -57,6 +57,7 @@ section {
   color: #282828;
   padding: 40px 30px;
   text-align: center;
+  margin-top: 50px;
 }
 
 .logo img {
@@ -185,7 +186,6 @@ section {
 
 .video {
   padding: 10px 20px 30px;
-
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: left;
